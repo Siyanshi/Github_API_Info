@@ -1,2 +1,2 @@
 # Github_API_Info
-A website that fetches information about Github user. 
+A website that fetches information about GitHub user. 
